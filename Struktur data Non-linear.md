@@ -31,3 +31,7 @@ Sama  dengan graph, tree juga kumpulan dari vertex dan edge(sudut). Bedanya dala
 * [Red-Black Tree]()
 
 Pelajari lebih lanjut di -> [Struktur Data Tree]()
+
+_Dibuat dengan ☕ dan 💖 oleh Rizky Firman Syah. Temui saya ada di Instagram_
+
+Terimakasih!!!
