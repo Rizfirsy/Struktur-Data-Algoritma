@@ -1,5 +1,5 @@
-#Apa itu Algoritma?
-**Di tutorial ini kita belajar algoritma.**
+# Apa itu Algoritma?
+**Ini adalah perkenalan dasar mengenai algoritma.**
 
 
 Pada istilah pemrograman komputer, algoritma adalah sekumpulan instruksi yang terdefinisi dengan baik untuk memecahkan masalah tertentu.
@@ -8,14 +8,14 @@ Contoh algoritma menambahkan dua angka:
 2. Tambahkan angka tersebut dengan operasi +
 3. Tampilkan hasilnya
 
-#Algoritma yang baik
+# Algoritma yang baik
 * Input dan output harus ditulis presisi(sesuai yang terjadi).
 * Setiap langkah algoritma harus jelas dan tidak boleh ambigu.
 * Algoritma harus yang paling efektif diantara semua cara.
 * Sebuah algoritma harus bisa diimplementasikan pada bahasa apapun.
 
-#Contoh algoritma
-###Algoritma menambahkan dua angka yang diberikan user
+# Contoh algoritma
+### Algoritma menambahkan dua angka yang diberikan user
 ```
 Step 1: Mulai
 Step 2: Tulis variabel angka1, angka2, dan jumlah.
