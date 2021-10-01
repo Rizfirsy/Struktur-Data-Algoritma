@@ -25,3 +25,9 @@ Analogikan dengan antrian di pom bensin😂.
 Dalam linked list, elemen data terhubung melalui node. Dan setiap node mengandung item data dan alamat ke node selanjutnya.
 
 [Gambar linked list]
+
+
+Dibuat dengan ☕ dan 💖 oleh Rizky Firman Syah.
+Temui saya ada di [Instagram](https://www.instagram.com/rizfirsy/)
+
+Terimakasih!!!
