@@ -32,6 +32,6 @@ Sama  dengan graph, tree juga kumpulan dari vertex dan edge(sudut). Bedanya dala
 
 Pelajari lebih lanjut di -> [Struktur Data Tree]()
 
-_Dibuat dengan ☕ dan 💖 oleh Rizky Firman Syah. Temui saya ada di Instagram_
+Dibuat dengan ☕ dan 💖 oleh Rizky Firman Syah. Temui saya ada di [Instagram](https://www.instagram.com/rizfirsy/)
 
 Terimakasih!!!
