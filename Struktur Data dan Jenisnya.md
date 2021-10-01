@@ -8,8 +8,8 @@ Berdasarkan persyaratan dan project-project yang kita miliki, maka sangat pentin
 
 
 ### Jenis-jenis Struktur Data
-* Struktur data linear
-* Struktur data Non-linear
+* [Struktur data linear](https://github.com/Rizfirsy/Struktur-Data-Algoritma/blob/master/Struktur%20data%20linear.md)
+* [Struktur data Non-linear](https://github.com/Rizfirsy/Struktur-Data-Algoritma/blob/master/Struktur%20data%20Non-linear.md)
 
 # Linear vs Non-Linear
 Mari kita lihat apa perbedaan utama antara keduanya.
