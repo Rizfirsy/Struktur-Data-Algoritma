@@ -13,7 +13,7 @@ Perhatikan contoh berikut:
 		string profesi;
 	};
 	
-	void displayData(Warga);
+	void displayData(Warga); //membuat function
 	
 	int main() {
 		Warga Dinda;
@@ -24,3 +24,19 @@ Perhatikan contoh berikut:
 		cin >> Dinda.usia;
 		cout << "Masukkan profesi" << Dinda.nama << ": ";
 		cin.get(Dinda.profesi);
+		
+		
+		//pemanggilan function dengan struktur variable sebagai argumen
+		displayData(Dinda);
+		
+		return 0;
+		
+	};
+	
+	void displayData (Warga Dinda {
+	cout << "Menampilan informasi warga" << endl;
+	cout << "Nama: " << Dinda.nama << endl;
+	cout << "Usia: " << Dinda.usia << endl;
+	cout << "Profesi: " << Dinda.profesi << endl;
+	
+```
