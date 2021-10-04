@@ -99,7 +99,7 @@ Sebuah variable enum hanya mengambil satu value dari banyaknya value yang mungki
         cout << "Ukuran dari variable enum ini adalah " << sizeof(card) <<  " byte";
         return 0;
     }
-
+```
 
 Output:
     `Size of enum variable 12 bytes.`
