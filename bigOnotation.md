@@ -28,4 +28,4 @@ Karena big-O memberikan kasus terburuk dari suatu waktu algoritma, sehingga big-
 > Kita selalu tertarik pada skenario terburuk😊
 
 
-Selanjutnya, baca -> [Constant Complexity: O(1)]()
+Selanjutnya, baca -> [Constant Complexity: O(1)](#ConstantComplexity.md)
